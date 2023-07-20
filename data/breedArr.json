@@ -1,0 +1,12 @@
+[
+  { "name": "Dog_1", "type": "Dog" },
+  { "name": "Dog_2", "type": "Dog" },
+  { "name": "Dog_3", "type": "Dog" },
+  { "name": "Dog_4", "type": "Dog" },
+  { "name": "Dog_5", "type": "Dog" },
+  { "name": "Cat_1", "type": "Cat" },
+  { "name": "Cat_2", "type": "Cat" },
+  { "name": "Cat_3", "type": "Cat" },
+  { "name": "Cat_4", "type": "Cat" },
+  { "name": "Cat_5", "type": "Cat" }
+]
